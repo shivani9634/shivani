@@ -1,0 +1,2 @@
+Cherry-pick used to apply the changes introduced by a specific commit from another branch 
+Use Case : When we want to apply a bug fix from one branch to another branch without merging the entire branch.
