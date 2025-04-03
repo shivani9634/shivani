@@ -1,0 +1,4 @@
+steps to un-stage changes from the staged area:
+
+git reset HEAD <file>
+git reset
