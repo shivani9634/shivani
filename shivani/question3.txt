@@ -1,0 +1,4 @@
+Steps to combine two commits into one commit:
+git rebase -i HEAD~2
+where adjust the number based on how many commits back we want to go
+git push origin shivani --force
