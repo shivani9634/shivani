@@ -1,0 +1,7 @@
+To delete the latest commit:
+git reset --hard HEAD~1
+git push origin shivani --force
+
+To delete multiple commits:
+git reset --hard HEAD~3
+git push origin shivani --force
