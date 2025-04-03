@@ -1,0 +1,7 @@
+Use Case : When we need to push our code to multiple repositories.
+STEPS:
+git remote add gitlab <url>
+git remote -v
+git puch origin shivani
+git push gitlab shivani
+
