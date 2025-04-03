@@ -1,0 +1,5 @@
+--force: Forcefully pushes changes, overwriting history, even if others have pushed changes.
+--force-with-lease: Safer option. Only force-pushes if no one else has pushed changes since your last pull.
+
+Use Case:
+--force-with-lease in shared repositories to avoid overwriting teammates' work. 
